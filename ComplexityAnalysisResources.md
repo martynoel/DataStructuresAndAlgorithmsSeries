@@ -9,3 +9,7 @@
 - [Analysis of Algorithms, Wikipedia](https://en.wikipedia.org/wiki/Analysis_of_algorithms)
 
 - [Best, worst, and average case, Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
+
+- [Big-O Notation, Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
+
+- [Complexity and Big-O Notation, wisc.edu](http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html)
