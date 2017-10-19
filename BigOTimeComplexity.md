@@ -54,9 +54,9 @@ As you can see from the graph above, O(1) is the best — no matter what size in
 
 Now that we’ve talked the talk, it’s time to walk the walk. How do we find the Big-O time complexity of an algorithm, anyway?
 
-Sadly — and this tripped me up a lot when I was first learning about complexity analysis — there is no One True Way to find an algorithm’s Big-O. You can’t plug-and-chug complexity analysis because hello, it’s an analysis.*
+Sadly — and this tripped me up a lot when I was first learning about complexity analysis — there is no One True Way to find an algorithm’s Big-O. You can’t plug-and-chug complexity analysis because *hello*, it’s an analysis.*
 
-Most people find the Big-O by looking at the algorithm itself and using common sense. I’m not going to explain how to find Big-O by looking at code, because there’s already a ton of good resources out there (I like this one and this one the most) that you could use. Instead, I’ll illustrate the approach you should take to find the Big-O time complexity of any algorithm.
+Most people find the Big-O by looking at the algorithm itself and using common sense. I’m not going to explain how to find Big-O by looking at code, because there’s already a ton of good resources out there (I like [this one](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) and [this one](https://stackoverflow.com/a/4852666) the most) that you could use. Instead, I’ll illustrate the approach you should take to find the Big-O time complexity of any algorithm.
 
 Consider this example. Let’s say that you’re in a crowded room. You have an extra ticket for a concert, and you’d like to sell it to someone in the room with you. Assuming that you’ll sell the ticket to the first person who wishes to buy it, you quickly come up with two algorithms to determine how to sell the ticket:
 
@@ -86,22 +86,22 @@ I hope you have better luck selling concert tickets in real life.
 
 Like any good software engineer would do, I put together this project by Googling the shit out of everything. Many of these articles venture outside the scope of this post — they would make for great further reading if you’re interested in learning more about Big-O and complexity theory.
 
-[Big O Notation (Interview Cake)]
+[Big O Notation (Interview Cake)](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
 
-[Big O, how do you calculate/approximate it? (Stack Overflow)]
+[Big O, how do you calculate/approximate it? (Stack Overflow)](https://stackoverflow.com/questions/3255/big-o-how-do-you-calculate-approximate-it)
 
-[Analysis of algorithms (Wikipedia)]
+[Analysis of algorithms (Wikipedia)](https://en.wikipedia.org/wiki/Analysis_of_algorithms)
 
-[Best, worst and average case (Wikipedia)]
+[Best, worst and average case (Wikipedia)](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
 
-[Big-O notation (Khan Academy)]
+[Big-O notation (Khan Academy)](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
 
-[Complexity and Big-O Notation (University of Wisconsin-Madison)]
+[Complexity and Big-O Notation (University of Wisconsin-Madison)](http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html)
 
-[Big-O Cheat Sheet]
+[Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
 ## Article debugging
 
 Any misinformation or other bugs in this article are unintentional. If you spot any, please contact me and I’ll fix it right away. Thanks for helping me get better!
 
-* I lied, there are some procedures you can use, but they’re pretty complex and math-heavy, and I haven’t learned them yet myself. Maybe I’ll cover them in a future blog post 😉
+* I lied, there are some procedures you can use, but they’re pretty complex and math-heavy, and I haven’t learned them yet myself. Maybe I’ll cover them in a future blog post 😉*
