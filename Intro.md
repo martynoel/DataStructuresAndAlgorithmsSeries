@@ -2,7 +2,7 @@
 
 ![pic](http://asianbarbie.com/wp-content/uploads/2017/10/datastructures_and_algorithms.jpg)
 
-When I walked into Algorithms class earlier this semester, my first thought was “Oh God.”
+**When I walked into Algorithms class earlier this semester, my first thought was “Oh God.”**
 
 I had not been a fan of Discrete Mathematics, the precursor to the course, and the thought of having to learn these data structures and algorithms — and implement them programmatically — made me want to hide under a large rock and never come back out again.
 
