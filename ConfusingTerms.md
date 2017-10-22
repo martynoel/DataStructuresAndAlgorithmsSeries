@@ -16,5 +16,5 @@ int j = 9;
 for (int i = 0; i < 10; i++) 
   j--;
 ```
-Here, **i + j = 0** is an invariant, because it's true for every iteration of the loop. 
+Here, `i + j = 0` is an invariant, because it's true for every iteration of the loop. 
 ([Source](https://stackoverflow.com/a/3221583))
