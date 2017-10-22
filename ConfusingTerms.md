@@ -7,3 +7,14 @@ The "inner loop" of an algorithm consists of the instructions that are executed 
 
 ## Cost model
 A cost model is a model that defines the basic operations used by an algorithm (such as the number of **array accesses**, or number of times an array is accessed for read or for write, it has). Cost models allow us to make precies statements about algorithms themselves, without getting caught up in particular implementations.
+
+## (Loop) invariant
+A loop invariant is a condition that holds true for every iteration of the loop. For example: 
+
+```
+int j = 9;
+for (int i = 0; i < 10; i++) 
+  j--;
+```
+Here, **i + j = 0** is an invariant, because it's true for every iteration of the loop. 
+([Source](https://stackoverflow.com/a/3221583))
