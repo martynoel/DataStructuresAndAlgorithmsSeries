@@ -106,9 +106,9 @@ Finally, after we did 6 comparisons with 3, we have a sorted array!
 
 Here are the exact steps that Insertion Sort uses:
 
-***1. Move the next element in the array from the unsorted portion to the sorted portion
-2. If that element is out of order in the sorted portion, have it switch places with each other element in the sorted portion until everything is in order
-3. Repeat until there are no elements in the unsorted portion, and every element in the sorted portion is in order.***
+- Move the next element in the array from the unsorted portion to the sorted portion
+- If that element is out of order in the sorted portion, have it switch places with each other element in the sorted portion until everything is in order
+- Repeat until there are no elements in the unsorted portion, and every element in the sorted portion is in order.
 
 And there you have it — the famous Insertion Sort!
 
