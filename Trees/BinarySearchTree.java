@@ -6,11 +6,27 @@ public class BinarySearchTree {
 		this.root = null;
 	}
 
+	public int getCount(Node node) {
+
+		int count = 1;
+
+		if (node.left != null) {
+			count += getCount(node.left);
+		}
+
+		if (node.right != null) {
+			count += getCount(node.right);
+		}
+
+		return count;
+	}
+
 	public boolean find(int id) {
 
 		Node current = root;
 
 		while (current != null) {
+
 			if (current.data == id) {
 				return true;
 			} else if (current.data > id) {
@@ -205,13 +221,11 @@ public class BinarySearchTree {
 class Node {
 
 	int data;
-	int size;
 	Node left;
 	Node right;
 
 	public Node(int data) {
 		this.data = data;
-		size = 0;
 		left = null;
 		right = null;
 	}
