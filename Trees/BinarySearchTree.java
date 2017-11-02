@@ -226,7 +226,6 @@ public class BinarySearchTree {
 
 		bst.display(root);
 
-		bst.rightRotation()
 	}
 }
 
