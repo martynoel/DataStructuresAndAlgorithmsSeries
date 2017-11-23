@@ -37,7 +37,6 @@ You should now be able to look at a binary tree picture and recognize what kind 
 
 ## Sources
 
-[Full v.s. Complete Binary Trees](http://web.cecs.pdx.edu/~sheard/course/Cs163/Doc/FullvsComplete.html)
-[Difference between “Complete binary tree”, “strict binary tree”,“full binary Tree”?, Stack Overflow](https://stackoverflow.com/questions/12359660/difference-between-complete-binary-tree-strict-binary-tree-full-binary-tre)
-[Wikipedia article on binary trees](https://en.wikipedia.org/wiki/Binary_tree)
-
+- [Full v.s. Complete Binary Trees](http://web.cecs.pdx.edu/~sheard/course/Cs163/Doc/FullvsComplete.html)
+- [Difference between “Complete binary tree”, “strict binary tree”,“full binary Tree”?, Stack Overflow](https://stackoverflow.com/questions/12359660/difference-between-complete-binary-tree-strict-binary-tree-full-binary-tre)
+- [Wikipedia article on binary trees](https://en.wikipedia.org/wiki/Binary_tree)
