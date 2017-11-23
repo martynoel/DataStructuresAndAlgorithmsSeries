@@ -2,6 +2,8 @@
 
 ![pic](https://image.ibb.co/g4nNd6/How_to_study.jpg)
 
+[Original Post](http://asianbarbie.com/study-data-structures-algorithms/)
+
 **When I first started studying algorithms, I had an incredibly hard time because of two things.** 
 
 One, I didn’t have a very strong mathematical foundation, and would struggle to understand the reasoning behind certain algorithms. Two, I was just plain bored. “Implement insertion sort and time your algorithm input on arrays of size 10,000…” Ugh! I approached my assignments with the same sort of dread that one normally reserved for seeing disagreeable relatives during the holidays: Yeah, sure, I’ll bang out this code as quickly as possible and retreat to my room to watch Rick and Morty the first chance I get. 
