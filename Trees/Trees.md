@@ -150,4 +150,3 @@ So far, all of the examples in this article have been using binary trees, or tre
 ## Article debugging
 
 Any misinformation or other bugs in this article are unintentional. If you spot any, please [contact me](http://asianbarbie.com/contact/) and I’ll fix it right away. Thanks for helping me get better!
-
