@@ -158,12 +158,12 @@ All of the characters in my series live in a world where code controls their rea
 
 ## Sources
 
-[Leaf It Up To Binary Trees, Basecs](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d)
-[Difference between binary tree and binary search tree](https://stackoverflow.com/a/11347688)
-[Binary Search Tree | Set 1 (Search and Insertion)](http://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
-[Binary Search, Chegg](https://www.chegg.com/homework-help/definitions/binary-search-3)
-[Binary Trees](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
-[What is the time complexity of searching in a binary search tree if the tree is balanced?, Stack Overflow](https://stackoverflow.com/questions/41054981/what-is-the-time-complexity-of-searching-in-a-binary-search-tree-if-the-tree-is)
+- [Leaf It Up To Binary Trees, Basecs](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d)
+- [Difference between binary tree and binary search tree](https://stackoverflow.com/a/11347688)
+- [Binary Search Tree | Set 1 (Search and Insertion)](http://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
+- [Binary Search, Chegg](https://www.chegg.com/homework-help/definitions/binary-search-3)
+- [Binary Trees](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
+- [What is the time complexity of searching in a binary search tree if the tree is balanced?, Stack Overflow](https://stackoverflow.com/questions/41054981/what-is-the-time-complexity-of-searching-in-a-binary-search-tree-if-the-tree-is)
 
 ## Article debugging
 
