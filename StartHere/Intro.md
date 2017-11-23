@@ -17,19 +17,77 @@ This blog series is an experimental one in teaching to learn — by presenting i
 
 Here are the exact topics I’ll be posting about:
 
-Algorithmic Analysis 
+## Advice & Fundamentals
 
-Selection Sort
+- [How I Study Data Structures and Algorithms](http://asianbarbie.com/study-data-structures-algorithms/)
 
-Insertion Sort
+- [Big-O Time Complexity](http://asianbarbie.com/big-o-time-complexity/)
 
-Mergesort
+## Data Structures
 
-Quicksort
+- [Trees](http://asianbarbie.com/trees/)
 
-Heapsort
+- [Types of Binary Trees](http://asianbarbie.com/types-of-binary-trees/)
 
-Binary Search
+- [Binary Search Trees](http://asianbarbie.com/binary-search-trees/)
+
+- AVL Trees
+
+- Red-Black Trees
+
+- 2-3 Trees
+
+- B-Trees
+
+- Heaps
+
+- Graphs
+
+- Directed Graphs
+
+- Undirected Graphs
+
+- Directed Acyclic Graphs
+
+- Stacks
+
+- Queues
+
+- Linked Lists
+
+- Hash Tables
+
+- Tries
+
+## Algorithms
+
+- [Insertion Sort](http://asianbarbie.com/insertion-sort/)
+
+- Merge Sort
+
+- Quick Sort
+
+- Selection Sort
+
+- Bubble Sort
+
+- Heap Sort
+
+- Radix Sort (LSD, MSD)
+
+- Binary Search
+
+- Traversal
+
+- Breadth-First Search (BFS)
+
+- Depth-First Search (DFS)
+
+- Dijkstra’s Algorithm
+
+You’ll need to know basic programming in Java in order to follow along with the code portions, but don’t worry if you can’t do that -- my goal is to make the conceptual portions simple to understand, even to a person without a background in computer science.
+
+You ready? I’m not, but I’m excited! Let’s do this! We’ll both learn something in the process.
 
 You’ll need to know basic programming in Java in order to follow along with the code portions, but don’t worry if you can’t do that — my goal is to make the conceptual portions simple to understand, even to a person without a background in computer science.
 
