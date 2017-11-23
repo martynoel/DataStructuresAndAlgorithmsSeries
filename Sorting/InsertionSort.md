@@ -1,8 +1,8 @@
 # Insertion Sort
 
--[Original post](http://asianbarbie.com/insertion-sort/)
-
 ![pic](http://asianbarbie.com/wp-content/uploads/2017/10/insertion-sort.jpg)
+
+[Original post](http://asianbarbie.com/insertion-sort/)
 
 **When was the last time that you sorted something?**
 
@@ -220,11 +220,11 @@ And that’s Insertion Sort!
 
 ## Sources
 
-[Inching Towards Insertion Sort, Basecs](https://medium.com/basecs/inching-towards-insertion-sort-9799274430da)
+- [Inching Towards Insertion Sort, Basecs](https://medium.com/basecs/inching-towards-insertion-sort-9799274430da)
 
-[Insertion Sort, Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Insertion%20Sort)
+- [Insertion Sort, Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Insertion%20Sort)
 
-[Insertion sort with an array of objects?, Stack Overflow](https://stackoverflow.com/questions/22003431/insertion-sort-with-an-array-of-objects/22003486#22003486)
+- [Insertion sort with an array of objects?, Stack Overflow](https://stackoverflow.com/questions/22003431/insertion-sort-with-an-array-of-objects/22003486#22003486)
 
 ## Article debugging
 
