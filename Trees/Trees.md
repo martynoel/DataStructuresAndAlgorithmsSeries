@@ -127,6 +127,27 @@ Here are some examples:
 
 ![pic](http://asianbarbie.com/wp-content/uploads/2017/10/IMG_9299.jpg)
 
-![pic]()
+![pic](http://asianbarbie.com/wp-content/uploads/2017/10/IMG_9300.jpg)
 
-![pic]()
+“What?” you say. “But some of these trees look like they’d straight-up topple over if they existed in real life! How can they possibly be balanced?”
+
+They’re balanced because the definition said so, duh. Observe how the balanced trees’ subtrees don’t differ from their sibling subtrees by more than one level.
+
+## Types of Trees: Binary or Otherwise
+
+So far, all of the examples in this article have been using binary trees, or trees with nodes that have at most two children (a left child and a right child) . Binary trees are the most basic types of trees (they were the first ones in line when the Unicorn Frappucino came out), but there are many other types of trees that exist. I’ll be covering specific types of trees and their implementations in later articles. Stay tuned!
+
+## Sources
+
+[What are the applications of binary trees?, Stack Overflow](https://stackoverflow.com/a/2200588)
+[What are the types of trees in data structures?, Quora](https://www.quora.com/What-are-the-types-of-trees-in-data-structures)
+[How To Not Be Stumped By Trees, Basecs](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7)
+[Data Structure and Algorithms – Tree](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
+[Tree Terminology](http://btechsmartclass.com/DS/U3_T1.html)
+[Data Structures in Java](http://www1.cs.columbia.edu/~bert/courses/3134/slides/Lecture7.pdf)
+[Problem 5: Binary Tree Levels](https://www.eecis.udel.edu/~breech/contest.inet.fall.01/problems/bin-tree-level.html)
+
+## Article debugging
+
+Any misinformation or other bugs in this article are unintentional. If you spot any, please [contact me](http://asianbarbie.com/contact/) and I’ll fix it right away. Thanks for helping me get better!
+
