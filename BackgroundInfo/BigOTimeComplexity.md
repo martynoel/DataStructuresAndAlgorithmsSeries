@@ -1,8 +1,8 @@
 # Big-O Time Complexity
 
-- [Original post](http://asianbarbie.com/big-o-time-complexity/)
-
 ![pic](http://asianbarbie.com/wp-content/uploads/2017/10/big_o.jpg)
+
+[Original Post](http://asianbarbie.com/big-o-time-complexity/)
 
 **I know what you’re thinking –“Big-O Time Complexity” sounds like the punchline of some nerdy that’s-what-she-said joke.**
 
@@ -86,19 +86,19 @@ I hope you have better luck selling concert tickets in real life.
 
 Like any good software engineer would do, I put together this project by Googling the shit out of everything. Many of these articles venture outside the scope of this post — they would make for great further reading if you’re interested in learning more about Big-O and complexity theory.
 
-[Big O Notation (Interview Cake)](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
+- [Big O Notation (Interview Cake)](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
 
-[Big O, how do you calculate/approximate it? (Stack Overflow)](https://stackoverflow.com/questions/3255/big-o-how-do-you-calculate-approximate-it)
+- [Big O, how do you calculate/approximate it? (Stack Overflow)](https://stackoverflow.com/questions/3255/big-o-how-do-you-calculate-approximate-it)
 
-[Analysis of algorithms (Wikipedia)](https://en.wikipedia.org/wiki/Analysis_of_algorithms)
+- [Analysis of algorithms (Wikipedia)](https://en.wikipedia.org/wiki/Analysis_of_algorithms)
 
-[Best, worst and average case (Wikipedia)](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
+- [Best, worst and average case (Wikipedia)](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
 
-[Big-O notation (Khan Academy)](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
+- [Big-O notation (Khan Academy)](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
 
-[Complexity and Big-O Notation (University of Wisconsin-Madison)](http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html)
+- [Complexity and Big-O Notation (University of Wisconsin-Madison)](http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html)
 
-[Big-O Cheat Sheet](http://bigocheatsheet.com/)
+- [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
 ## Article debugging
 
