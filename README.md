@@ -27,7 +27,7 @@ Here are the exact topics I’ll be posting about:
 
 - [Big-O Time Complexity](http://asianbarbie.com/big-o-time-complexity/)
 
-## Data Structures
+## Tree Data Structures: Sororitree Rush
 
 - [Trees](http://asianbarbie.com/trees/)
 
@@ -43,15 +43,9 @@ Here are the exact topics I’ll be posting about:
 
 - B-Trees
 
-- Heaps
+- Tries
 
-- Graphs
-
-- Directed Graphs
-
-- Undirected Graphs
-
-- Directed Acyclic Graphs
+## Other Data Structures
 
 - Stacks
 
@@ -61,7 +55,15 @@ Here are the exact topics I’ll be posting about:
 
 - Hash Tables
 
-- Tries
+- Heaps
+
+- Graphs
+
+- Directed Graphs
+
+- Undirected Graphs
+
+- Directed Acyclic Graphs
 
 ## Algorithms
 
